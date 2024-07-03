@@ -711,15 +711,15 @@ strong {
 }
 
 .schedule-table .pop-background-image {
-  background-image: url('./images/artists/2.jpg');
+  background-image: url('../images/artists/2.jpg');
 }
 
 .schedule-table .rock-background-image {
-  background-image: url('./images/artists/4.jpg');
+  background-image: url('../images/artists/4.jpg');
 }
 
 .schedule-table .country-background-image {
-  background-image: url('./images/artists/3.jpg');
+  background-image: url('../images/artists/3.jpg');
 }
 
 .table-background-image-wrap {
