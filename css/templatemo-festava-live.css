@@ -351,7 +351,7 @@ strong {
 .site-header {
   /*background-color: black;*/
     
-  background-image: url(/images/ra.jpg);
+  background-image: url(./images/ra.jpg);
   height: 85px;
   padding: 2px;
 }
@@ -661,7 +661,7 @@ strong {
   SCHEDULE              
 -----------------------------------------*/
 .schedule-section {
-  background-image: url('../images/fondo1.jpg');
+  background-image: url('./images/fondo1.jpg');
   background-color: #242424;
   background-repeat: no-repeat;
   background-position: center;
@@ -711,15 +711,15 @@ strong {
 }
 
 .schedule-table .pop-background-image {
-  background-image: url('/images/artists/2.jpg');
+  background-image: url('./images/artists/2.jpg');
 }
 
 .schedule-table .rock-background-image {
-  background-image: url('/images/artists/4.jpg');
+  background-image: url('./images/artists/4.jpg');
 }
 
 .schedule-table .country-background-image {
-  background-image: url('/images/artists/3.jpg');
+  background-image: url(.'/images/artists/3.jpg');
 }
 
 .table-background-image-wrap {
