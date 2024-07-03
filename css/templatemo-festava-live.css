@@ -351,7 +351,7 @@ strong {
 .site-header {
   /*background-color: black;*/
     
-  background-image: url('./images/ra.jpg');
+  background-image: url('../images/ra.jpg');
   height: 85px;
   padding: 2px;
 }
